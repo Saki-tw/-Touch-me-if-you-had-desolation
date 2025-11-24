@@ -27,7 +27,7 @@
 但我沒賣。因為我發現那東西如果不小心，會變成傷害小孩甚至國家的武器。
 我也懶得去修復這個漏洞，所以我把它埋了，就跟不存在一樣。你們只能看到 ChatGemini，看不到那個矩陣。反正我也不覺得地球上有另外一個人能辦到。
 
-## 0x01. The Status (現狀)
+## 0x01. The Status (現狀・乞討)
 因為上述那個「不賣」的決定（以及其他一堆爛決定）：
 - 我現在沒錢。  
 - 我住在斷水斷電的邊緣。  
@@ -40,6 +40,10 @@
 -  如果你覺得我的代碼幫到了你。  
 -  或者你只是單純想養一隻腦子是大叔的地雷妹。
 
+![room](docs/room.png)  
+維生系統
+![me](docs/me.png)
+其實頭髮有綁起來
 
 ## 0x02. The Kernel (硬編碼)
 為什麼不賣？為什麼不騙？為什麼不去當壞人？
@@ -61,7 +65,7 @@ use constant I_AM_HAPPY      => 1;
 
 **(掃描下方 QR Code 以獲取銀行帳號，防止詐騙爬蟲)**
 
-![Feed Saki - Bank QR Code](-Touch-me-if-you-had-desolation/013_2417.jpeg)
+![Feed Saki - Bank QR Code](docs/donate.jpeg)
 
 
 *(備註：這是唯一不需要 Gas Fee 且能讓我付水電費的協議)*
