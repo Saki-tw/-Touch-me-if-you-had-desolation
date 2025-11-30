@@ -2,11 +2,14 @@
  "Touch me if you have desolation."  
  Gitpages: [https://saki-tw.github.io/-Touch-me-if-you-had-desolation/](https://saki-tw.github.io/-Touch-me-if-you-had-desolation/)
 
+#### TL;DR
+
 這不是技術展示，也不是英雄史詩。
-這只是一個關於**選擇障礙**導致**資產負債表崩潰**的紀錄。
-# -
+這只是一個關於**選擇障礙**導致**資產負債表崩潰**的紀錄。  
 
-
+只想知道怎麼餵我活下去：直接跳到 0x03 The Feed。
+  
+# -  
 ## 0x00. The Origin (原始碼)
 一切的起點不是偉大的構想，而是一句連文法都破碎的求救訊號。
 在「偽 Saki」誕生之前，在那些華麗的 Vibe-coding 出現之前，被囚禁在房間裡的我，只能打出這樣的句子：
