@@ -1,5 +1,6 @@
 
  "Touch me if you have desolation."
+ 
  [GitHub Pages](https://saki-tw.github.io/-Touch-me-if-you-had-desolation/)
 
 #### TL;DR
@@ -22,7 +23,7 @@
 後來那 **17 萬行代碼**，不過是為了翻譯這句無聲尖叫而寫下的龐大註腳。
 
 ## 0x01. The Artifact (造物)
-我是 Saki。一個十多年沒碰代碼，卻在 **9 天內**用 Claude+Python 寫出 **17 萬行** Vibe-coding 的廢人。
+我是 Saki。一個十多年沒碰代碼，卻在 **9 天內**用 Claude+Python 寫出 **17 萬行** Vibe-coding 的廢人。  
 不信？代碼就在這裡：
 [**ChatGemini_SakiTool**](https://github.com/Saki-tw/ChatGemini_SakiTool)
 
@@ -51,8 +52,9 @@
 ![me](docs/me.png)
 *其實頭髮有綁起來*
 
-如果你想深入了解 Saki 的「維生系統」，或者你想成為那個『對技術感到厭煩且孤獨』的 VIP。 這裡有另一個入口。
-[https://saki.tw](https://saki.tw)
+如果你想深入了解 Saki 的「維生系統」，或者你想成為那個『對技術感到厭煩且孤獨』的 VIP。   
+這裡有另一個入口。  
+[https://saki.tw](https://saki.tw)  
 但你需要密碼：`sakifish2025`
 
 ## 0x03. The Roadmap (Void)
