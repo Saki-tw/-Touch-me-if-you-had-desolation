@@ -52,11 +52,6 @@
 ![me](docs/me.png)
 *其實頭髮有綁起來*
 
-如果你想深入了解 Saki 的「維生系統」，或者你想成為那個『對技術感到厭煩且孤獨』的 VIP。   
-這裡有另一個入口。  
-[https://saki.tw](https://saki.tw)  
-但你需要密碼：`sakifish2025`
-
 ## 0x03. The Roadmap (Void)
 這裡沒有 Roadmap。
 這也不再是一間「會長大的工作室」。
